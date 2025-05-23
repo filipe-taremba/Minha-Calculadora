@@ -1,2 +1,2 @@
 # Minha-Calculadora
-projecto 2 para teste do github
+Essa é uma calculadora simples feita em Python
