@@ -2,6 +2,9 @@
 def somar(a, b, c): 
     return a + b+ c
     
+def imprimir():
+    return "Eu odeio carro eletricos"
+    
 def somar(a, b):
     return a + b
 
