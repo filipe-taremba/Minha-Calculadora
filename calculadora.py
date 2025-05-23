@@ -1,5 +1,7 @@
 # calculadora.py
-
+def somar(a, b, c): 
+    return a + b+ c
+    
 def somar(a, b):
     return a + b
 
